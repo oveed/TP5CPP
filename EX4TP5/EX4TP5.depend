@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1734277453 source:c:\users\ahmed\documents\test\ex4tp5\complexe.cpp
+	"complexe.h"
+	<cmath>
+
+1734277461 c:\users\ahmed\documents\test\ex4tp5\complexe.h
+	<iostream>
+

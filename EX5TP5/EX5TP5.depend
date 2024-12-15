@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734277555 source:c:\users\ahmed\documents\test\ex5tp5\main.cpp
+	"cercle.h"
+
+1734277565 c:\users\ahmed\documents\test\ex5tp5\cercle.h
+	"../EX3TP5/point.h"
+
+1734277223 c:\users\ahmed\documents\test\ex3tp5\point.h
+	<iostream>
+	<cmath>
+
